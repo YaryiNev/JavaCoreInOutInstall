@@ -1,0 +1,13 @@
+
+Директория D:\java\project\JavaCoreInOutInstall\Games\src - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\res - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\savegames - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\temp - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\src\main - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\src\test - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\res\drawables - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\res\vectors - создан
+Директория D:\java\project\JavaCoreInOutInstall\Games\res\icons - создан
+Файл: D:\java\project\JavaCoreInOutInstall\Games\src\main\Main.java - создан
+Файл: D:\java\project\JavaCoreInOutInstall\Games\src\main\Utils.java - создан
+Файл: D:\java\project\JavaCoreInOutInstall\Games\temp\temp.txt - создан
